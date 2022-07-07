@@ -1,13 +1,6 @@
 # Speech-to-Text Data Collection
 <h1 align="center">African language Speech Recognition - Speech-to-Text </h1>
-<div>
-<a href="https://github.com/STT-Data-Engineering/Speech_to_text"><img src="https://img.shields.io/github/forks/STT-Data-Engineering/Speech_to_text" alt="Forks Badge"/></a>
-<a "https://github.com/STT-Data-Engineering/Speech_to_text/pulls"><img src="https://img.shields.io/github/issues-pr/STT-Data-Engineering/Speech_to_text" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/STT-Data-Engineering/Speech_to_text/issues"><img src="https://img.shields.io/github/issues/STT-Data-Engineering/Speech_to_text" alt="Issues Badge"/></a>
-<a href="https://github.com/STT-Data-Engineering/Speech_to_text/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/STT-Data-Engineering/Speech_to_text?color=2b9348"></a>
-<a href="https://github.com/STT-Data-Engineering/Speech_to_text/blob/main/LICENSE"><img src="https://img.shields.io/github/license/STT-Data-Engineering/Speech_to_text?color=2b9348" alt="License Badge"/></a>
-</div>
-</br>
+
 
 **Table of content**
 
